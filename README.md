@@ -8,3 +8,5 @@ This is a CLI utility to show types of group interactions that match certain tra
 
 *Based on the work by Spencer Greenberg:
 http://www.spencergreenberg.com/2017/03/better-formats-for-group-interaction-going-beyond-lectures-group-discussions-panels-and-mixers/*
+
+test
